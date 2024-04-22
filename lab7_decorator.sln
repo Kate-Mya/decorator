@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab7_decorator", "lab7_decorator.vcxproj", "{54D4B952-0021-45A9-B77B-FBEE06935EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Debug|x64.ActiveCfg = Debug|x64
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Debug|x64.Build.0 = Debug|x64
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Debug|x86.Build.0 = Debug|Win32
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Release|x64.ActiveCfg = Release|x64
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Release|x64.Build.0 = Release|x64
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Release|x86.ActiveCfg = Release|Win32
+		{54D4B952-0021-45A9-B77B-FBEE06935EBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D978C7BD-DE4F-4503-8D72-98FBCB51A00C}
+	EndGlobalSection
+EndGlobal
